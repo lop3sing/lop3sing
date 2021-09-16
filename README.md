@@ -27,6 +27,6 @@
    <a href="https://www.facebook.com/lop3s.ingrid/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-lopes-1589lp08/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-     ![Snake animation](https://github.com/Lop3s/Lop3s/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/lop3s/lop3s/blob/output/github-contribution-grid-snake.svg)
     
   </div>
