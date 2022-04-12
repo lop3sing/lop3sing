@@ -1,4 +1,4 @@
-<img align="right" alt="GIF-Lop3s" height="220" width="220" src="https://media.discordapp.net/attachments/718218001429561444/888174039514906634/GIF_01.gif">
+<img align="right" alt="GIF-Lop3s" height="220" width="220" src="https://media.discordapp.net/attachments/718218001429561444/963495777718661230/GifR01.gif">
 
 ### Olá, eu sou a Ingrid Lopes 👋
 
