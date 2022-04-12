@@ -3,9 +3,9 @@
 ### Olá, eu sou a Ingrid Lopes 👋
 
 - 👩‍🎓 Cursando Tecnologia em Informática para Negócios pela FATEC-MAUÁ.
+- 💻 Analista de Soluções Digitais em OLOS TECNOLOGIA
 - 📚 Aprendendo desenvolvimento web (HTML,CSS e JavaScript).
-- 💻 Apaixonada por programação.
-- 😄 Pronouns: ela/dela.
+- 💜 Apaixonada por programação.
 
 
  <div>
