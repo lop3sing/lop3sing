@@ -2,9 +2,9 @@
 
 ### Olá, eu sou a Ingrid Lopes 👋
 
-- 👩‍🎓 Cursando Tecnologia em Informática para Negócios pela FATEC-MAUÁ.
-- 💻 Analista de Soluções Digitais em OLOS TECNOLOGIA.
-- 📚 Aprendendo desenvolvimento web (HTML, CSS e JavaScript).
+- 👩‍🎓 Tecnologia em Informática para Negócios pela FATEC-MAUÁ.
+- 💻 Customer Success Specialist em OLOS TECNOLOGIA.
+- 📚 Front-end Developer | JavaScript.
 - 💜 Apaixonada por programação.
 
 
