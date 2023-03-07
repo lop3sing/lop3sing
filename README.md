@@ -4,7 +4,7 @@
 
 - 👩‍🎓 Tecnologia em Informática para Negócios pela FATEC-MAUÁ.
 - 💻 Customer Success Specialist em OLOS TECNOLOGIA.
-- 📚 Front-end Developer | JavaScript.
+- 📚 Aprendendo Desenvolvimento Web (HTML, CSS e JavaScript).
 - 💜 Apaixonada por programação.
 
 
