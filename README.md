@@ -2,8 +2,8 @@
 
 ### Olá, eu sou a Ingrid Lopes 👋
 
-- 👩‍🎓 Tecnologia em Informática para Negócios pela FATEC-MAUÁ.
-- 💻 Customer Success Specialist em OLOS TECNOLOGIA.
+- 👩‍🎓 Tecnológa em Informática para Negócios pela FATEC-MAUÁ.
+- 💻 Content Designer Junior em OLOS TECNOLOGIA.
 - 📚 Aprendendo Desenvolvimento Web (HTML, CSS e JavaScript).
 - 💜 Apaixonada por programação.
 
