@@ -3,8 +3,7 @@
 ### Olá, eu sou a Ingrid Lopes 👋
 
 - 👩‍🎓 Tecnológa em Informática para Negócios pela FATEC-MAUÁ.
-- 💻 Content Designer Junior em OLOS TECNOLOGIA.
-- 📚 Aprendendo Desenvolvimento Web (HTML, CSS e JavaScript).
+- 📚 Aprendendo Desenvolvimento Web.
 - 💜 Apaixonada por programação.
 
 
