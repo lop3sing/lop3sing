@@ -3,7 +3,7 @@
 ### Olá, eu sou a Ingrid Lopes 👋
 
 - 👩‍🎓 Tecnológa em Informática para Negócios pela FATEC-MAUÁ.
-- ⌨️ Content Designer Junior na Olos Tecnologia e Sitemas.
+- ⌨️ Content Designer Junior na Olos Tecnologia e Sistemas.
 - 📚 Aprendendo Desenvolvimento Web.
 - 💜 Apaixonada por programação.
 
