@@ -1,5 +1,3 @@
-<img align="right" alt="GIF-Lop3s" height="220" width="220" src="https://media.discordapp.net/attachments/718218001429561444/963495777718661230/GifR01.gif">
-
 ### Olá, eu sou a Ingrid Lopes 👋
 
 - 👩‍🎓 Tecnóloga em Informática para Negócios pela FATEC-MAUÁ.
