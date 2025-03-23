@@ -1,6 +1,6 @@
 ### Olá, eu sou a Ingrid Lopes 👋
 
-- 👩‍🎓 Tecnóloga em Informática para Negócios pela FATEC-MAUÁ.
+- 👩‍🎓 Tecnóloga em Informática para Negócios pela FATEC Mauá.
 - ⌨️ Content Designer Junior na Olos Tecnologia e Sistemas.
 - 📚 Aprendendo Desenvolvimento Web.
 - 💜 Apaixonada por programação.
