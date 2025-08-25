@@ -9,7 +9,7 @@
 ## Ferramentas e tecnologias 🛠️
 
  <div style="display: inline_block"><br>
-   <img align="center" alt="Logo Python" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+   <img align="center" alt="Logo Python" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"><br>
    <img align="center" alt="Logo XML" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg">
  </div>
 
