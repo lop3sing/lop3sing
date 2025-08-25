@@ -4,7 +4,7 @@
 - ⌨️ Content Designer Junior na Olos Tecnologia e Sistemas.
 - 💜 Apaixonada por programação.
 
-
+#
 
 ## Ferramentas e tecnologias 🛠️
  <div style="display: inline_block"><br>
