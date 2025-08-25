@@ -3,7 +3,7 @@
 - 👩‍🎓 Tecnóloga em Informática para Negócios pela FATEC Mauá.
 - ⌨️ Content Designer Junior na Olos Tecnologia e Sistemas.
 - 💜 Apaixonada por programação.
-- 
+
 
 ## Ferramentas e tecnologias 🛠️
  <div style="display: inline_block"><br>
