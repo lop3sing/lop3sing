@@ -17,7 +17,7 @@
 ## Contatos 📲
 
 <div> 
- <a href="https://instagram.com/lop3sing" target="_blank"><img loading="lazy" src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)" target="_blank"></a>
+ <a href="https://instagram.com/lop3sing" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/lop3sing" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  <a href = "mailto:ingrid.lopes453@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://github.com/lop3sing">
