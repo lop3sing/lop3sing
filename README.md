@@ -4,6 +4,8 @@
 - ⌨️ Content Designer Junior na Olos Tecnologia e Sistemas.
 - 💜 Apaixonada por programação.
 
+
+### Ferramentas e tecnologias
 ##
 
 <div>
@@ -12,7 +14,6 @@
 
  <div style="display: inline_block"><br>
   <img align="center" alt="lop3sing-Py" height="60" width="40" src="https://images.icon-icons.com/112/PNG/512/python_18894.png">
-  <!--<img align="center" alt="lop3sing-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
  </div>
   
 ##
