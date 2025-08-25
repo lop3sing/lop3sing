@@ -6,7 +6,7 @@
 
 ## Ferramentas e tecnologias 🛠️
  <div style="display: inline_block"><br>
-  <img align="center" alt="lop3sing-Py" height="60" width="40" src="https://images.icon-icons.com/112/PNG/512/python_18894.png">
+   <img align="center" alt="Python" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
  </div>
 
 ## Contatos 📲
