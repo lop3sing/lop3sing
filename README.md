@@ -4,7 +4,7 @@
 - ⌨️ Content Designer Junior na Olos Tecnologia e Sistemas.
 - 💜 Apaixonada por programação.
 
-<br>
+<br><br>
 
 ## Ferramentas e tecnologias 🛠️
 
@@ -12,7 +12,7 @@
    <img align="center" alt="Python" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
  </div>
 
-<br>
+<br><br>
 
 ## Contatos 📲
 
